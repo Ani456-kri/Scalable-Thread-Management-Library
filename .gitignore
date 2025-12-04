@@ -1,0 +1,15 @@
+# Compiled source
+*.exe
+*.out
+*.o
+*.obj
+
+# Temporary files
+*.tmp
+*.log
+
+# VSCode
+.vscode/
+
+# Windows
+Thumbs.db
